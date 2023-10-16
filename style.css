@@ -1,0 +1,10 @@
+.red {
+  color: red;
+}
+.black {
+  color: black;
+  text-decoration: underline;
+}
+.main {
+  margin: 0 auto;
+}
